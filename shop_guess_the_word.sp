@@ -22,7 +22,7 @@ Handle timerQuestionEnd;
 public Plugin myinfo =
 {
     name = "[Shop] Guess The Word",
-    author = "TTony",
+    author = "TTony, Arkarr / Psychologist21 & AlmazON",
     description = "Guess a given word with its letters randomized",
     version = "1.0",
     url = "https://github.com/PrdTTony"
